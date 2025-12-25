@@ -230,7 +230,7 @@ bot.hears(
             await ctx.reply(text.arrStageTexts[13], { reply_markup: keyboard12 });
         }
     );
-    
+        
 
         bot.hears(
         [text.buttonStage12Text[0],text.buttonStage12Text[1]],
